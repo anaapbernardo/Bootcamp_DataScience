@@ -1,0 +1,17 @@
+ Morbidade Hospitalar do SUS - por local de residência - Brasil
+Óbitos por Região e Ano processamento
+Lista Morb  CID-10: Infecção meningocócica, Meningite viral, Meningite bacteriana não classif outra parte, Meningite em doenças bacters class outr parte, Mening em doenç infec/parasit class outr part, Mening dev outras causas e causas não especif
+Período:Jan/2008-Set/2020
+"Região";"2008";"2009";"2010";"2011";"2012";"2013";"2014";"2015";"2016";"2017";"2018";"2019";"2020";"Total"
+"1 Região Norte";29;21;38;27;20;26;23;35;60;42;37;49;36;443
+"2 Região Nordeste";76;95;97;105;104;84;85;133;139;114;125;139;72;1368
+"3 Região Sudeste";240;245;240;228;222;209;272;287;319;272;270;243;160;3207
+"4 Região Sul";106;90;95;88;58;75;113;149;123;110;136;128;66;1337
+"5 Região Centro-Oeste";35;33;39;48;49;35;41;38;54;58;39;36;21;526
+"Total";486;484;509;496;453;429;534;642;695;596;607;595;355;6881
+ Fonte: Ministério da Saúde - Sistema de Informações Hospitalares do SUS (SIH/SUS)
+ Notas:
+ 
+ Situação da base de dados nacional em 29/04/2016.
+ Dados de janeiro de 2015 até março de 2016 sujeitos a retificação.
+ 
